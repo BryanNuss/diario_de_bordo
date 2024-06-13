@@ -1,0 +1,27 @@
+16/05 Setimó Dia de aula 
+Criado maisuma versão do jogo de 
+adivinhação, pois alguns alnos não
+possuim projeto.Feito menu e estrutura
+do jogo utilizando estrutura de decisão (If..else).
+No jogo o usuário informava um número e
+o jogo informava se ele acertou o número ou não.
+
+23/05 Oitavo Dia de aula 
+Incrementando lógica do jogo, colocando
+estrutura de laço de repetição, onde o
+jogador poderia jogar mais de uma vez.
+Para issos foi utilizado o laço for. 
+Baixado o projeto pra a situação de
+aprendizagem usando o Spring Initializr.
+
+06/06 Nono Dia de aula
+Aprendid conceitos de UX, e investigado
+sites d API gratuitos para ver a documentação
+e tentar acessar pelo Postman.
+Baixado projeto modelo para usar a biblioteca
+OpenAPI e Swagger para documentação automática.
+
+13/06 Décimo Dia de aula 
+usamos o Swagger também usamos o intelijDEA.
+Fizemos o Relatório das aulas anterios para
+ver se lembrarmos algo.sss

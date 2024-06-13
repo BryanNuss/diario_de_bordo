@@ -1,0 +1,13 @@
+Dia 04/04 Primeiro Dia de aula 
+Foi feito uma atividade interação com o Kahoot 
+
+11/04 Segundo Dia de aula 
+Segundo dia de aula fizemos uma conta no Github e aprendemos os comandos do Git Bash
+Comandos Git Bash:Git init, Git add, git clone, git commit -m, git push, git pull, git commit.
+
+18/04 Terceiro Dia de aula 
+Criamos um projeto Java colocamos no git hub e fizemos um menu para o jogo da adivinhação
+
+25/04 Quarto Dia de aula 
+  
+ 

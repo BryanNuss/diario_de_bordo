@@ -1,0 +1,18 @@
+25/04 Quarto Dia de aula 
+Foi o começo da matéria de Bancos de Dados. 
+Apresentação do conceito do Bancos de Dados.
+Criação de modelo Entidade Relacionamento.
+
+02/05 Quinto Dia de aula.
+Continuação do Banco de Dados da situação de apredizagem,
+onde foi utilizado a linguagem SQL para a construção do Banco.
+Utilização do comandos de insert para inserção de informações nas tabelas. 
+
+09/05 Sexto Dia de aula 
+Utilizado Engenharia direta do MySQL
+para gerar o script de criação do banco.
+Inserido algumasinformaçãos utilizando
+o comando Insert .
+Utilizado o coando select para ver as 
+informações.
+Salvado as informações no Git Hub.
