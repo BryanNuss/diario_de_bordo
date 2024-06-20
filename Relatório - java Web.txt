@@ -1,0 +1,9 @@
+Dia 20/06 Décimo Primeiro Dia de Aula
+Deletamos o Repósitorio eventos, e vamos
+começar aprender e trabalhar com o Java Web.
+Acabamos de criar um novo Repositório usando
+o Spring initializr. 
+Colocamos as Dependencis no openapi 3 no intellijDEA.
+Aplicamos o spring boot no projetp intellijDEA.
+Estamos criamd as classes para servir de modelo para
+consultar as informações.
